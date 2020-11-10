@@ -1,0 +1,13 @@
+[packages]
+pandas = "==0.25.1"
+numpy = "==1.17.3"
+matplotlib = "==3.1.1"
+seaborn = "==0.9.0"
+ipykernel = "==5.1.1"
+jupyter = "==1.0.0"
+requests = "==2.22.0"
+cufflinks = "*"
+scikit-learn = "==0.22.2"
+
+[requires]
+python_version = "3.7"
